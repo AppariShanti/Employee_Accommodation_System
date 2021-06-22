@@ -4,11 +4,11 @@ There is a need for an accommodation System for VNIT employees where all there d
 Apart from this, all the records can also be viewed and sorted as per need. A particular employee can be searched using their personal details.
 This project is aimed to implement an Accommodation System for employees using various concepts of Data Structures and Program Design. It has been done in following three phases:
 
-(a)  Arrays
+#### (a)  Arrays
 
-(b)  Linked List
+#### (b)  Linked List
 
-(c)  Trees
+#### (c)  Trees
 
 In each of the phases the whole system was implemented from scratch. The following functionalities are included:
 
